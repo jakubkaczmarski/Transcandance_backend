@@ -1,0 +1,30 @@
+backend_chat/# compiled output
+backend_chat//dist
+backend_chat//node_modules
+backend_chat/# Logs
+backend_chat/logs
+backend_chat/*.log
+backend_chat/npm-debug.log*
+backend_chat/pnpm-debug.log*
+backend_chat/yarn-debug.log*
+backend_chat/yarn-error.log*
+backend_chat/lerna-debug.log*
+backend_chat/# OS
+backend_chat/.DS_Store
+backend_chat/# Tests
+backend_chat//coverage
+backend_chat//.nyc_output
+backend_chat/# IDEs and editors
+backend_chat//.idea
+backend_chat/.project
+backend_chat/.classpath
+backend_chat/.c9/
+backend_chat/*.launch
+backend_chat/.settings/
+backend_chat/*.sublime-workspace
+backend_chat/# IDE - VSCode
+backend_chat/.vscode/*
+backend_chat/!.vscode/settings.json
+backend_chat/!.vscode/tasks.json
+backend_chat/!.vscode/launch.json
+backend_chat/!.vscode/extensions.json
